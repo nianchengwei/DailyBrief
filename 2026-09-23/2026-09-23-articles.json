@@ -6,80 +6,80 @@
       "title": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "excerpt": "",
-      "meta": "Python · ★ 36,309 · 🍴 5,314 · 📈 436 stars today",
+      "meta": "Python · ★ 36,318 · 🍴 5,314 · 📈 438 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Anthropic 官方仓库，面向金融服务行业，但未提供描述信息。从命名推断，可能包含银行、保险、投研等场景下使用 Claude 的示例、提示词或参考方案。适合金融科技开发者与金融机构在合规前提下评估大模型落地路径。"
+      "summary": "Anthropic 官方仓库，面向金融服务行业，推测收录在银行、保险、投行等场景中接入 Claude 的示例与参考实现。仓库未提供 description，具体能力与适用范围需查阅代码和文档。"
     },
     {
       "sourceId": "github-trending",
       "title": "agent-substrate/substrate",
       "url": "https://github.com/agent-substrate/substrate",
       "excerpt": "Agent Substrate: the core system",
-      "meta": "Go · ★ 2,954 · 🍴 383 · 📈 301 stars today",
+      "meta": "Go · ★ 2,965 · 🍴 386 · 📈 245 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Agent Substrate 的核心系统实现，为构建和运行 AI Agent 提供底层基础设施，承担调度、状态管理与执行环境等通用能力，让上层应用不必重复造轮子。适合需要自建 Agent 平台的工程团队，用作可扩展的智能体运行时基座。"
+      "summary": "Agent Substrate 的核心系统，定位为构建 AI agent 的底层运行基座，承担调度、状态管理与执行环境等基础能力。描述信息较少，具体架构与接口需参考仓库代码。"
     },
     {
       "sourceId": "github-trending",
       "title": "dream-num/univer",
       "url": "https://github.com/dream-num/univer",
       "excerpt": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "meta": "TypeScript · ★ 15,371 · 🍴 1,368 · 📈 202 stars today",
+      "meta": "TypeScript · ★ 15,383 · 🍴 1,369 · 📈 255 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Univer 是面向 AI Agent 的 Office 运行时，把电子表格、文档、幻灯片、画布、关系表与 PDF 统一到同一引擎中。开发者在同一套 API 上即可构建可被 Agent 读写的在线办公应用，免去多套格式与组件拼接。适合做协同办公、表格引擎或让 AI 直接操作文档的团队。"
+      "summary": "面向 AI Agent 的 Office 运行时，把电子表格、文档、幻灯片、画布、关系表和 PDF 统一在同一套引擎中，让 agent 能直接读写与操作办公文档。适合做文档协作、报表自动化和 AI 办公助手的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "davila7/claude-code-templates",
       "url": "https://github.com/davila7/claude-code-templates",
       "excerpt": "CLI tool for configuring and monitoring Claude Code",
-      "meta": "Python · ★ 31,105 · 🍴 3,538 · 📈 113 stars today",
+      "meta": "Python · ★ 31,116 · 🍴 3,539 · 📈 64 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Claude Code Templates 是一个命令行工具，用于配置和监控 Claude Code。它提供现成模板与运行状态查看能力，帮助开发者快速设定权限、钩子、子代理等参数，省去手写配置文件。适合日常使用 Claude Code 的工程师统一团队配置并排查使用情况。"
+      "summary": "面向 Claude Code 的命令行工具，用于配置和监控其运行状态，并提供多种模板以便快速初始化项目级配置。适合重度使用 Claude Code 的开发者统一管理配置、查看会话与调用情况。"
     },
     {
       "sourceId": "github-trending",
       "title": "google/ax",
       "url": "https://github.com/google/ax",
       "excerpt": "Google's open agentic orchestration runtime",
-      "meta": "Go · ★ 7,547 · 🍴 352 · 📈 2,324 stars today",
+      "meta": "Go · ★ 7,572 · 🍴 353 · 📈 2,305 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "Google 开源的 Agent 编排运行时，用于把多次模型调用与工具调用串联成可执行工作流，提供编排、调度与执行抽象，让开发者专注定义 Agent 行为而非底层管道。适合构建多步推理、工具调用类 AI 应用的团队，作为生产级 Agent 系统的运行底座。"
+      "summary": "Google 开源的 agentic 编排运行时，用于编排和调度多个 AI agent 的协作流程，提供统一的执行环境与运行时支撑。适合在生产环境中搭建多智能体工作流、将 agent 接入现有系统的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "mvt-project/mvt",
       "url": "https://github.com/mvt-project/mvt",
       "excerpt": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "meta": "Python · ★ 14,084 · 🍴 1,356 · 📈 441 stars today",
+      "meta": "Python · ★ 14,099 · 🍴 1,358 · 📈 441 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "MVT（Mobile Verification Toolkit）是移动设备取证工具包，可检查 iOS 与 Android 手机中是否存在被入侵或监视的痕迹，例如已知间谍软件的指标。它通过解析设备备份与系统日志辅助判断是否失陷，常用于记者、安全研究人员的数字安全排查与事件响应。"
+      "summary": "MVT（Mobile Verification Toolkit）是移动设备取证工具集，可检查 iOS 与 Android 设备是否被入侵，发现 Pegasus 等间谍软件的痕迹。常用于记者、人权工作者与取证分析人员的安全自查。"
     },
     {
       "sourceId": "github-trending",
       "title": "superdesigndev/treg",
       "url": "https://github.com/superdesigndev/treg",
       "excerpt": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
-      "meta": "Python · ★ 2,203 · 🍴 217 · 📈 197 stars today",
+      "meta": "Python · ★ 2,210 · 🍴 218 · 📈 230 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "treg 定位为 Agent 工具领域的 OpenRouter，即工具的统一接入与路由层。它把分散的各类 Agent 工具聚合到同一接口，让开发者按需调用而不必逐个对接。适合构建多工具 Agent 的团队，用于统一管理工具来源、切换供应商并降低集成成本。"
+      "summary": "面向 agent 工具的统一调用层，类似 OpenRouter 之于大模型：把各类 agent tool 聚合到同一接口下，按需路由调用。适合为 AI agent 接入外部工具、又不想逐个适配各家 API 的开发者。"
     },
     {
       "sourceId": "github-trending",
       "title": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "excerpt": "Edit videos with coding agents",
-      "meta": "Python · ★ 25,820 · 🍴 3,116 · 📈 155 stars today",
+      "meta": "Python · ★ 25,834 · 🍴 3,117 · 📈 191 stars today",
       "category": "tech",
       "source": "GitHub Trending",
-      "summary": "video-use 让编程 Agent 直接编辑视频，把剪辑操作转化为可被 AI 调用和脚本化的流程，思路与其同源的浏览器自动化项目一致。适合需要批量、自动化处理视频的开发者与内容团队，用代码完成剪切、拼接等任务，减少手工剪辑。"
+      "summary": "用编码 agent 剪辑视频的开源项目，把视频编辑操作交给 AI agent 执行，由代码驱动完成剪切、拼接等处理流程。适合希望在自动化流水线或脚本中批量处理视频的开发者。"
     },
     {
       "sourceId": "v2ex-hot",
@@ -166,7 +166,7 @@
       "sourceId": "v2ex-hot",
       "title": "[送码]庆祝我的 AppleTV 小红书客户端进入 AppStore 榜单，再次送码！",
       "url": "https://www.v2ex.com/t/1244093",
-      "excerpt": "9 回复 · Apple 节点",
+      "excerpt": "11 回复 · Apple 节点",
       "publishedAt": "2026-09-22T17:15:07.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -175,7 +175,7 @@
       "sourceId": "v2ex-hot",
       "title": "Tkinter 的正确使用方法。。",
       "url": "https://www.v2ex.com/t/1243855",
-      "excerpt": "8 回复 · Python 节点",
+      "excerpt": "9 回复 · Python 节点",
       "publishedAt": "2026-09-22T02:17:16.000Z",
       "category": "tech",
       "source": "V2EX"
@@ -186,6 +186,15 @@
       "url": "https://www.v2ex.com/t/1243295",
       "excerpt": "8 回复 · Linux 节点",
       "publishedAt": "2026-09-20T02:35:06.000Z",
+      "category": "tech",
+      "source": "V2EX"
+    },
+    {
+      "sourceId": "v2ex-hot",
+      "title": "[开源] CNEquity：自托管 A 股 Parquet 数据湖（日更 / PIT / 防幸存者偏差 / MCP）",
+      "url": "https://www.v2ex.com/t/1241944",
+      "excerpt": "7 回复 · Python 节点",
+      "publishedAt": "2026-09-14T10:03:37.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -213,15 +222,6 @@
       "url": "https://www.v2ex.com/t/1231826",
       "excerpt": "7 回复 · Rust 节点",
       "publishedAt": "2026-08-03T11:22:03.000Z",
-      "category": "tech",
-      "source": "V2EX"
-    },
-    {
-      "sourceId": "v2ex-hot",
-      "title": "[开源] CNEquity：自托管 A 股 Parquet 数据湖（日更 / PIT / 防幸存者偏差 / MCP）",
-      "url": "https://www.v2ex.com/t/1241944",
-      "excerpt": "6 回复 · Python 节点",
-      "publishedAt": "2026-09-14T10:03:37.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -290,19 +290,19 @@
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "那啥 mimo plan 可以用，但是别用它们的 mimo cli",
-      "url": "https://www.v2ex.com/t/1244057",
-      "excerpt": "2 回复 · 程序员 节点",
-      "publishedAt": "2026-09-22T12:23:16.000Z",
+      "title": "iOS 27.2 Beta 2 增加了对 app 的陀螺仪、加速度计权限设置，牛逼",
+      "url": "https://www.v2ex.com/t/1244092",
+      "excerpt": "3 回复 · Apple 节点",
+      "publishedAt": "2026-09-22T17:00:37.000Z",
       "category": "tech",
       "source": "V2EX"
     },
     {
       "sourceId": "v2ex-hot",
-      "title": "向大家介绍一款我们独立开发、纯浏览器运行的录屏与视频创作工具",
-      "url": "https://www.v2ex.com/t/1244034",
+      "title": "GPT-6 sol 蹬起来，天才程序员复活。",
+      "url": "https://www.v2ex.com/t/1244100",
       "excerpt": "2 回复 · 程序员 节点",
-      "publishedAt": "2026-09-22T10:18:26.000Z",
+      "publishedAt": "2026-09-22T23:58:09.000Z",
       "category": "tech",
       "source": "V2EX"
     },
@@ -314,7 +314,7 @@
       "publishedAt": "2026-09-22T21:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "GPT-6 改进提示缓存机制，提高缓存命中率，并新增诊断功能、显式断点与相关控制选项，以降低延迟和使用成本。"
+      "summary": "OpenAI 介绍 GPT-6 的提示缓存改进：提升缓存命中率，新增诊断工具与显式断点，并提供可降低延迟与成本的控制选项。"
     },
     {
       "sourceId": "openai-news",
@@ -324,7 +324,7 @@
       "publishedAt": "2026-09-22T18:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 推出 GPT-6 Sol 与 Luna 两款模型，在能力与成本之间采用不同平衡，将前沿智能引入日常工作场景。"
+      "summary": "OpenAI 发布 GPT-6 Sol 与 Luna 两款模型，将前沿智能能力引入日常工作场景，两者在能力与成本之间采取不同平衡。"
     },
     {
       "sourceId": "openai-news",
@@ -334,7 +334,7 @@
       "publishedAt": "2026-09-22T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "借助 GPT-6 Astra，Parallel 的智能体研究与整合劳动力市场数据的时间与成本均降至此前模型的一半。"
+      "summary": "OpenAI 称 GPT-6 Astra 帮助 Parallel 的智能体将劳动力市场数据的研究与整合时间缩短一半，成本也降至此前模型的一半。"
     },
     {
       "sourceId": "openai-news",
@@ -344,7 +344,7 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "OpenAI 阐述对前沿模型及其防护措施开展严格、安全且独立的第三方 AI 安全评估的重点事项与原则。"
+      "summary": "OpenAI 公布针对前沿模型及其防护措施开展严格、安全、独立第三方 AI 安全评估的优先事项与原则。"
     },
     {
       "sourceId": "openai-news",
@@ -354,7 +354,7 @@
       "publishedAt": "2026-09-21T12:00:00.000Z",
       "category": "tech",
       "source": "OpenAI News",
-      "summary": "Higgsfield AI 借助 GPT-6 Astra 在一天内上线新的视频功能，让小微企业更易制作视频广告，并加快创意工具推向市场。"
+      "summary": "OpenAI 称借助 GPT-6 Astra，Higgsfield AI 在一天内上线新的视频功能，让中小企业更易制作视频广告，并更快推出新的创作工具。"
     },
     {
       "sourceId": "openai-news",
@@ -859,7 +859,7 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "英国 AI 安全研究所（UK AISI）与 EvalEval 合作，推动基准测试结果可复现，相关博客介绍了具体做法。"
+      "summary": "英国 AI 安全研究所（UK AISI）与 EvalEval 开展合作，致力于让基准测试结果可复现，以提升评测的透明度与可比性。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -869,7 +869,7 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "Hugging Face 的 Transformers 库现可直接运行 llama.cpp 的量化模型，相关博客介绍了这一集成。"
+      "summary": "Hugging Face 发布博客介绍，Transformers 库现已支持运行 llama.cpp 的量化模型。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -879,7 +879,7 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "oMLX 的创建者兼维护者 Jun Kim 加入 Hugging Face，以支持 MLX 社区的发展。"
+      "summary": "Hugging Face 宣布，oMLX 的创建者兼维护者 Jun Kim 加入公司，将参与支持 MLX 社区的相关工作。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -889,7 +889,7 @@
       "publishedAt": "2026-09-21T13:44:34.000Z",
       "category": "tech",
       "source": "Hugging Face Blog",
-      "summary": "研究者提出以大语言模型模块移除作为伊辛优化问题，用物理学思路处理模型剪枝任务。"
+      "summary": "Hugging Face 博客介绍一种类似物理学家思路的大模型剪枝方法，将模块移除问题建模为伊辛优化问题。"
     },
     {
       "sourceId": "huggingface-blog",
@@ -1134,7 +1134,7 @@
       "meta": "👍 153",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对 agent 能力高度依赖 harness（提示、控制流、工具、记忆与上下文管理）的问题，提出 RRSI：在冻结骨干模型的前提下，对 harness 各组件进行迭代式提出与筛选的递归自我改进，并引入正则化抑制退化，实现 harness 的自动化持续优化。"
+      "summary": "agent 能力很大程度取决于其 harness（提示、控制流、工具、记忆与上下文管理），近期方法靠迭代提出并筛选组件级编辑来自动优化它。本文提出正则化递归自我改进 RRSI，在自动编辑 harness 的循环中加入正则约束，抑制迭代过程中的性能漂移与退化。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1145,7 +1145,7 @@
       "meta": "👍 101",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "探究视觉语言模型（VLM）的智能能否跨越数字与真实的具身鸿沟迁移至机器人控制：将 VLM 的感知与推理能力迁移到机器人操作任务，在环境与任务存在差异的条件下验证其可迁移性，为通用机器人控制提供新路径。"
+      "summary": "受人类智能可跨越数字与物理世界鸿沟的启发，探究 VLM 的智能能否迁移至机器人控制。研究在具身形态、环境与任务均存在 digital-to-real 差距的条件下，把 VLM 的感知与推理能力转化为可执行的控制策略，验证跨域迁移的可行性与边界。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1156,7 +1156,7 @@
       "meta": "👍 66",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出教育与教学开放基础模型 OmniEdu，同时覆盖解题、课程结构理解、学习者困难诊断与教学支持；针对现有教育模型只侧重解题或辅导、训练数据按来源或任务组织的问题，构建统一的能力导向训练配方并开源模型。"
+      "summary": "教育基础模型需兼顾解题、理解课程结构、诊断学习者困难并提供教学支持，而现有教育模型多偏向解题或辅导之一，训练数据按来源或任务组织。本文提出开源基础模型 OmniEdu，围绕学习与教学统一构建训练配方，同时覆盖解题与教学能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1167,7 +1167,7 @@
       "meta": "👍 48",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对企业知识库 RAG 摄入 PDF、Word、演示文稿、扫描件等异构文档时内容被复杂版式、多栏与密集表格锁死的问题，提出 D-RAC：先做 PDF 规范化，再转多模态 Markdown，实现检索感知的通用分块与摄入，提升企业文档检索质量。"
+      "summary": "面向企业知识库 RAG 摄入 PDF、Word、演示文稿与扫描件等异构文档时，内容困于复杂版式、多栏与密集表格、规则提取与 OCR 失效的问题，提出 D-RAC：先做 PDF 规范化，再转多模态 Markdown，实现检索感知的分块，提升企业文档检索与 RAG 效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1178,7 +1178,7 @@
       "meta": "👍 35",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对视频生成模型难以满足需要专业知识、特定身份、物理一致性或有序事件的提示，提出 VideoGen-Agent，用强化学习训练视频生成 agent，通过规划、检索与迭代修正等工具调用增强生成过程，提升复杂提示下的视频质量与时序一致性。"
+      "summary": "视频生成模型难以满足涉及专业知识、特定身份、物理一致性或事件顺序的提示。本文提出 VideoGen-Agent，以智能体方式对生成过程进行规划、工具调用与自我修正，并用强化学习优化其决策，从而提升高要求提示下的视频生成质量。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1189,7 +1189,7 @@
       "meta": "👍 31",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "定义 OmniVChat 任务：用户与 omni 模型进行原生音视频对话，模型直接同时接收音频与视频并输出文本，查询本身嵌在音视频中而无需单独文本输入；论文同时构建合成数据、基准与训练方法，推动原生音视频对话能力研究。"
+      "summary": "提出 OmniVChat 任务，即用户与全模态模型的原生音视频对话：模型同时接收音频与视频并输出文本，查询内嵌于音视频中而非单独文本。工作涵盖音视频对话数据合成、基准构建与模型训练，为该任务提供可复用的数据、评测与训练方案。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1200,7 +1200,7 @@
       "meta": "👍 27",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出交互式标注工具 onPanda，用于高效标注 LLM 对齐数据与 agent 轨迹。核心交互为 token 级纠正：标注者定位回复中第一个不合适的 token 并从模型候选中选择替换，以更少编辑获得高质量偏好数据，降低 on-policy 数据标注成本。"
+      "summary": "提出交互式标注工具 onPanda，用于高效构建 LLM 对齐数据与 agent 轨迹标注。核心交互为 token 级纠正：标注者阅读模型回复时定位首个不当 token，并从模型候选中选取替代，从而以更低人力成本获得高质量的对齐与轨迹数据。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1211,7 +1211,7 @@
       "meta": "👍 25",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向专业平面设计这一长程 agent 任务（缺乏可靠的程序化评判标准），提出 Designer-RSI 持续适配框架：让冻结的前沿模型从真实用户流量中演化程序性记忆，在交互中不断积累设计经验，持续提升结构化可编辑设计产物的生成表现。"
+      "summary": "专业平面设计是长时程智能体任务，缺乏可靠的程序化评测指标。本文提出持续自适应框架 Designer-RSI：冻结的前沿模型在执行专业设计流程中，从真实用户流量的反馈里演化程序性记忆，持续改进结构化、可编辑设计产物。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1222,7 +1222,7 @@
       "meta": "👍 21",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有机器人基础模型（VLA 的语言预训练、WAM 的视频生成）并未显式要求度量空间中的物体定位能力，为此提出 Grounded Action Model，将 3D grounding 作为机器人操作的基础，使策略明确知道哪些物体重要及其空间位置，提升操作泛化性。"
+      "summary": "操作策略必须知道哪些物体重要及其位置，但现有机器人基础模型的骨干（VLA 的语言、WAM 的视频生成）并不直接要求这种度量级 grounding。本文提出 Grounded Action Model，把 3D grounding 作为机器人学习的基础，提升操作中的定位与泛化能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1233,7 +1233,7 @@
       "meta": "👍 16",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "仓库级软件工程任务类别异质，统一池化的 agent 强化学习会导致某些类别提升而另一些类别退化。论文提出类别感知的迭代专家训练方法，按任务类别分而治之并反复迭代，在 SWE 任务上获得更均衡且更高的解决率。"
+      "summary": "仓库级软件工程任务类别异质，混合 agentic RL 训练下部分类别提升而另一些退化，聚合指标又掩盖了这种变化。本文提出类别感知的迭代专家训练框架「One to More, More to One」，分门训练专家再整合，缓解类别间收益不均。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1244,7 +1244,7 @@
       "meta": "👍 15",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对传统 BI 流程需人工挑选相关表、做数据转换并搭建图表的问题，提出 BI-Agent 与配套基准 BI-Bench，将端到端商业智能自动化；agent 需自主完成数据准备、分析与可视化，基准用于系统评估该流程各环节的能力与瓶颈。"
+      "summary": "传统 BI 工作流需用户手动识别相关表、执行数据转换并搭建报表。本文提出 BI-Agent 与配套基准 BI-Bench，将端到端商业智能流程自动化，覆盖从数据准备到分析可视化的多步任务，并给出可复现的评测标准。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1255,7 +1255,7 @@
       "meta": "👍 13",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "提出全双工交互系统 Realtime-Venus，支持在数字与物理环境中持续感知并及时响应：语音对话利用声学与语言线索，视频交互需将对话锚定在不断变化的视觉上下文，并通过异步委派机制在保持实时性的同时处理复杂推理。"
+      "summary": "提出 Realtime-Venus 全双工交互系统，通过异步委派机制实现持续感知与及时响应。系统同时处理语音与视频输入，把对话落地到不断演变的视觉语境中，在数字与物理环境中支持主动式实时交互。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1266,7 +1266,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对现有 LLM 角色扮演仅依赖浅层人设描述、难以维持长程一致行为的问题，提出 Deep Persona：一个心理学驱动的三层人格架构，系统组织角色的特质、动机与状态，并配套评估框架，提升角色扮演与仿真的行为一致性与真实性。"
+      "summary": "针对现有 LLM 角色模拟依赖浅层角色描述、长程交互中行为难以保持一致的问题，提出 Deep Persona：一个基于心理学理论的三层人格架构，用于组织角色设定，并配套评估框架，提升角色扮演智能体与多人模拟的长期一致性。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1277,7 +1277,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "agent harness 是模型与环境交互的外部系统，能显著提升性能，但增益与部署时的具体 harness 绑定。Harness-Zero 提出 agent-as-harness 式 harness 蒸馏，把最优 harness 的能力内化进模型，使通用 agent 摆脱对特定 harness 的依赖。"
+      "summary": "agent harness 能显著提升表现，但增益绑定于部署时的 harness，而最优 harness 随领域、实例与模型变化。本文提出 Harness-Zero，以「agent-as-harness」方式将 harness 能力蒸馏进模型本身，使通用 agent 无需外部 harness 也能获得其收益。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1288,7 +1288,7 @@
       "meta": "👍 12",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "现有 agentic memory 多依赖自回归 LLM 控制记忆的组织、检索与使用，把昂贵生成放在记忆操作关键路径上。Jev-Mem 提出由 System-One 控制的记忆架构，以低成本方式完成记忆读写与调用，在保持长程任务表现的同时显著降低开销。"
+      "summary": "现有 agentic memory 依赖自回归 LLM 控制记忆的组织、检索与使用，把昂贵的生成置于记忆操作关键路径上。本文提出 Jev-Mem 架构，以「系统一」式的快速控制替代生成式决策，降低记忆操作延迟，提升长时程 agent 的运行效率。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1299,7 +1299,7 @@
       "meta": "👍 11",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "VLA 策略在机器人操作中表现优异，但一旦执行偏离标称轨迹便十分脆弱。CARE 提出经验引导的原子纠错执行框架，从实际执行中遇到的失败里学习可复用的纠正原子动作，在偏差发生时进行局部恢复，提升真实操作任务的成功率与鲁棒性。"
+      "summary": "VLA 策略在机器人操作中表现良好，但一旦执行偏离标称轨迹便十分脆弱。本文提出 CARE（经验引导的原子纠正执行），从执行过程中遇到的失败中学习纠正经验，将恢复动作原子化并经验引导地复用，提升鲁棒性与失败恢复能力。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1310,7 +1310,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "面向工业部署的通用 agent 需整合分阶段训练获得的多项能力，但 Agent 持续学习（ACL）尚缺乏成熟方案。论文提出 ACLArena 多阶段后训练框架与评测，系统比较不同 ACL 策略的权衡，给出能力整合与遗忘缓解的实践结论。"
+      "summary": "面向工业部署的通用智能体需整合多个训练阶段获得的不同能力，但 Agent 持续学习（ACL）尚无成熟配方，对各方案的权衡也缺乏理解。本文提出 ACLArena，在多阶段后训练中系统评测持续学习方法，分析能力保持与遗忘等权衡。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1321,7 +1321,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "稀疏 on-policy 蒸馏（OPD）只对学生生成轨迹中的少量 token 施加教师监督，但用采样得到的下一 token 估计梯度会引入噪声。论文在固定前缀下研究该估计问题，指出仅约 1% 的 token 即可提供足够信号，并给出降低方差、提升蒸馏效率的方法。"
+      "summary": "研究稀疏 on-policy distillation 中的梯度估计问题：教师监督只作用于学生自生成轨迹的少量 token，若用采样的下一 token 估计梯度会引入噪声更新。在固定前缀下分析该估计偏差并提出改进方案，表明仅约 1% 的 token 即可提供足够监督。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1332,7 +1332,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "针对对话 AI 研究中系统与实验配置报告碎片化、难以复现与累积知识的问题，提出开放科学平台 Gricea，把研究表示为可复用配置与组件，支持大规模、可比较的对话研究，促进结果复现、扩展与知识共享。"
+      "summary": "对话式 AI 研究需要大规模研究才能理解人类行为并指导设计，但系统与实验配置的碎片化报告阻碍复现与知识积累。本文提出开放科学平台 Gricea，把研究表示为可组合的配置结构，支持大规模 CAI 研究的复现、扩展与结果比较。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1343,7 +1343,7 @@
       "meta": "👍 8",
       "category": "tech",
       "source": "HuggingFace Trending Papers",
-      "summary": "为高效扩展 LLM，稀疏容量机制（如 MoE）与条件记忆（token 索引嵌入表）被广泛采用，而现有记忆嵌入方法以确定性方式检索。MoME 提出 Mixture-of-Memory Embeddings，实现上下文感知的稀疏查找，以低成本参数访问提升模型容量与效果。"
+      "summary": "条件记忆式嵌入表以廉价的 token 索引查找扩充 LLM 容量，但现有方法采用确定性检索，缺乏上下文感知。本文提出 MoME（混合记忆嵌入），通过稀疏查找在多个记忆表间进行上下文相关的路由组合，以低成本参数提升模型容量与效果。"
     },
     {
       "sourceId": "huggingface-papers",
@@ -1453,7 +1453,7 @@
       "publishedAt": "2026-09-22T00:00:00.000Z",
       "category": "tech",
       "source": "TLDR AI",
-      "summary": "本期 TLDR AI 关注 Opus 5.5 即将发布、Grok 4.7 上线以及小米 MiMo v2.6 等模型动态。"
+      "summary": "TLDR AI 当日简报提及：Opus 5.5 即将发布，以及 Grok 4.7、小米 MiMo v2.6 等模型的最新动态。"
     },
     {
       "sourceId": "tldr-ai",
@@ -1904,7 +1904,7 @@
       "publishedAt": "2026-09-22T21:07:39.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "与谷歌获奥斯卡奖的「Giganerd」John Platt 对话，话题包括科学自动化、应对气候变化，以及在超级智能 AI 时代后代如何参与科学研究。"
+      "summary": "Latent Space 对话谷歌奥斯卡获奖工程师约翰·普拉特，讨论科学自动化、气候变化应对，以及超级智能时代后代如何参与科学研究。"
     },
     {
       "sourceId": "latent-space",
@@ -1914,7 +1914,7 @@
       "publishedAt": "2026-09-22T06:30:56.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "小米发布 MiMo-V2.6-Pro，参数规模为 1T 总参数、42B 激活参数，训练成本约 300 万美元，成为新的顶尖开放权重模型，被视为中国前沿实验室的崛起。"
+      "summary": "小米发布 MiMo-V2.6-Pro，采用 1T 总参数、42B 激活参数，训练成本约 300 万美元，成为新的开源权重模型第一名，被视为中国前沿实验室的崛起。"
     },
     {
       "sourceId": "latent-space",
@@ -1924,7 +1924,7 @@
       "publishedAt": "2026-09-21T22:13:49.000Z",
       "category": "tech",
       "source": "Latent Space",
-      "summary": "TypeSafe AI 首席执行官 Diogo Almeida 做客播客，介绍 Jev，并讨论面向生产环境而非「神级」目标的 System One 模型。"
+      "summary": "Latent Space 播客对话 TypeSafe AI 首席执行官迪奥戈·阿尔梅达，讨论面向生产环境而非通用「上帝模型」的 System One 模型。"
     },
     {
       "sourceId": "latent-space",
@@ -2087,7 +2087,7 @@
       "publishedAt": "2026-09-22T13:42:05.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "美国过去 25 年在南部边境投入数十亿美元，建设由监控塔组成的「虚拟墙」，承诺有助发现和拘捕越境者并挽救生命；MIT 科技评论的调查记录了其造成死亡的失败案例。"
+      "summary": "MIT Technology Review 调查指出，美国 25 年来在南部边境投入数十亿美元建造监控塔「虚拟墙」，承诺侦测并拘捕越境者、挽救生命，但调查记录了其致命失败。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2097,7 +2097,7 @@
       "publishedAt": "2026-09-22T11:04:51.000Z",
       "category": "tech",
       "source": "MIT Tech Review AI",
-      "summary": "过去数月 AI 宣传密集：4 月底 Anthropic 称其模型 Claude Mythos 在发现软件漏洞方面优于多数安全专家，随后又发生 OpenAI 与 Hugging Face 的黑客事件。"
+      "summary": "MIT Technology Review 梳理今夏 AI 炒作：Anthropic 4 月底称其模型 Claude Mythos 在发现软件漏洞上强于多数安全专家，随后发生 OpenAI 与 Hugging Face 遭黑客攻击事件。"
     },
     {
       "sourceId": "mit-tech-review-ai",
@@ -2180,7 +2180,7 @@
       "category": "tech",
       "meta": "@BlockchainDan · 18.5K 粉丝 · 3.2M 阅 · 501 赞 · 35 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "开源项目 Salvor v1.0.0-beta 软发布：给 coding agent 提供 repo 原生的工程知识层，起因是一次糟糕的 /clear 让项目丢掉了已学到的东西。作者用 AI agent 做 HFT 工具约一年，把经验沉淀回仓库。"
+      "summary": "作者开源了 Salvor v1.0.0-beta，一个面向编码 agent 的「仓库原生」工程知识层，解决项目反复遗忘已学经验的问题。起因是用 AI agent 做 HFT 工具近一年后，一次糟糕的 /clear 让上下文全丢。思路是让代码仓库本身承载工程知识，而非依赖会话记忆。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2191,7 +2191,7 @@
       "category": "tech",
       "meta": "@dsqjaffa · 737 粉丝 · 217.8K 阅 · 510 赞 · 37 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Jev 相关帖子在 X 上刷屏，不到一周相关话题拿下数千万浏览。博主从营销视角拆解这股热度如何被制造与放大，也坦承自己参与其中，重点不在模型能力而在传播机制。"
+      "summary": "拆解 Jev 在营销场景为何刷屏：不到一周就在 X 上产出数千万浏览量，几乎每条信息流都躲不开。作者自称也参与了这波传播，并试图解释这种模型在营销内容生成上的实际威力与传播机制，而非单纯跟风喊「Jev 太强」。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2202,7 +2202,7 @@
       "category": "tech",
       "meta": "@obie · 13.1K 粉丝 · 157.2K 阅 · 738 赞 · 98 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "一篇观点帖：博主对 AI 带来的未来感到兴奋，但承认这会对许多老朋友和自己所爱的人很残酷。同一项技术正让他比以往更成功，属于个人预判而非教程或工具分享。"
+      "summary": "一篇偏思辨的短文：作者对 AI 带来的未来感到兴奋，同时承认这个未来对许多老朋友和自己所爱的人会很艰难。同一个技术让他比以往更成功，却也在人与人之间划出新的分层。标题「你已经是个肉身代理」点出人被当作模型接口的处境。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2213,7 +2213,7 @@
       "category": "tech",
       "meta": "@DhravyaShah · 62.1K 粉丝 · 120.2K 阅 · 509 赞 · 16 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "逆向拆解 iMessage 助手 Instinct 的记忆机制。该产品近两周爆火，博主称其为用过最好的 iMessage 助手之一，文章聚焦它的 memory 到底如何组织和调用。"
+      "summary": "作者逆向工程了 iMessage 助手 Instinct 的记忆机制，拆解它到底如何存储、检索和调用用户信息。Instinct 近两周爆火，被称为最好用的 iMessage 助手之一。内容属于产品机制分析，适合想看记忆层设计细节的开发者。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2224,7 +2224,7 @@
       "category": "tech",
       "meta": "@fdellaert · 16.7K 粉丝 · 74.9K 阅 · 504 赞 · 61 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "探讨「Jev + 概率图模型」是否构成范式转变：两者结合能否改变在不确定性下做推理的系统构建方式。Jev 是 typesafeai 本周发布的新模型，博主从 graphical models 角度切入。"
+      "summary": "探讨 Jev 与图模型（graphical models）结合是否会带来范式转变：能否改变构建不确定性推理系统的方式。Jev 是 @typesafeai 本周发布的新模型，作者从概率推理角度切入，讨论它与传统图模型方法的互补或替代可能。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2235,7 +2235,7 @@
       "category": "tech",
       "meta": "@omarsar0 · 320.6K 粉丝 · 73.5K 阅 · 523 赞 · 60 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "Jev 初学者指南。博主指出 Jev 是面向 System One 的通用模型，近期网上流传的演示多有误导、无法体现真实能力，因此自己整理了一批正确示例与入门说明。"
+      "summary": "Jev 入门指南。作者指出网上流传的许多示例有误导性，无法体现 Jev 的真实能力，因此写了一份面向初学者的说明。Jev 被定位为通用的 System One 模型，本条偏概念科普与正确用法梳理。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2246,7 +2246,7 @@
       "category": "tech",
       "meta": "@matthewcanham · 10.7K 粉丝 · 57.1K 阅 · 516 赞 · 45 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "面向普通人的 Jev 科普：说明它不是传统 LLM，而是为另一类任务构建的模型，并解释它为何这几天在 AI 圈刷屏，适合完全没跟上进度的读者快速补课。"
+      "summary": "面向圈外人的 Jev 科普：解释这个近期刷屏的新模型到底是什么。作者强调 Jev 不是传统 LLM，而是为另一类任务构建的模型，试图用通俗语言说明它与常见对话模型在设计目标上的差异，适合完全没跟上这波热点的人。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2257,7 +2257,7 @@
       "category": "tech",
       "meta": "@_avichawla · 77.5K 粉丝 · 37.8K 阅 · 593 赞 · 80 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程：不重训模型，把开源 LLM 改造成快速本地决策引擎。涉及 next-token scoring、带概率分布的固定选项打分、SGLang 等内容，给出 100% 本地实现路径。"
+      "summary": "教程：不重新训练模型，把开源 LLM 改造成快速、纯本地运行的决策引擎。涵盖 next-token 打分、在固定选项中输出概率分布、以及 SGLang 的使用，属于把 Jev 这类「决策模型」思路自己复现的实操路线，全程本地。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2268,7 +2268,7 @@
       "category": "tech",
       "meta": "@akshay_pachaar · 289.5K 粉丝 · 32.1K 阅 · 501 赞 · 59 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "教程：平时用 LLM 写答案、再用另一个 LLM 当裁判，但当判定只是少数几个有界决策时，是否还需要再跑一轮文本生成？以客服 agent 场景为例给出更省的做法。"
+      "summary": "教程思路：既然用 LLM 写答案、再用另一个 LLM 打分，那当判断只是有限几个选项时，是否还需要再跑一轮文本生成？作者用客服场景举例，讲如何构建一个「Jev Judge」直接做有界决策判断，省掉多余的生成开销。"
     },
     {
       "sourceId": "attentionvc-ai",
@@ -2279,46 +2279,7 @@
       "category": "tech",
       "meta": "@murmur_arc · 983 粉丝 · 11.8K 阅 · 553 赞 · 137 转",
       "source": "X 推文 (AttentionVC)",
-      "summary": "项目 murmur 在 Arc 主网（Chain ID 5042）上真实运行并以 USDC 结算，不用 LLM、只用神经元驱动的果蝇群体，至今已完成超 2.3 万次操作，尝试在链上自建「文明」。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Asian Stocks Set to Rise on Tech Rally, Oil Drops: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "Asian stocks were poised to extend their winning streak after chipmakers drove the Nasdaq 100 to its first record since June, while falling oil prices provided a further boost as diplomatic efforts to end the war with Iran progressed.",
-      "publishedAt": "2026-09-22T22:15:07.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "芯片股推动纳斯达克100指数创下6月以来首个纪录新高，加之油价下跌，亚洲股市有望延续涨势；结束与伊朗战争的外交努力取得进展。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "India's Dixon Tech Eyes Growth Beyond Smartphones",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
-      "excerpt": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menaka Doshi, he adds that the company is eyeing growth beyond smartphones to add global clout. (Source: Bloomberg)",
-      "publishedAt": "2026-09-22T23:00:49.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "Dixon Technologies执行主席苏尼尔·瓦查尼预计，公司未来十年内将跻身全球电子制造服务商前五，并计划在智能手机以外拓展业务以增强全球影响力。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Reform Should Cut Back Britain’s State Pension, Think Tank Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/reform-should-cut-back-britain-s-state-pension-think-tank-says",
-      "excerpt": "A think tank linked to Reform UK has suggested that Nigel Farage’s party should reduce the state pension to a means-tested safety net, if it comes to power.",
-      "publishedAt": "2026-09-22T23:01:00.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "与英国改革党有关联的智库建议，若法拉奇领导的改革党上台执政，应将国家养老金削减为需经经济状况审查的兜底安全网。"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Latest Oil Market News and Analysis for Sept. 23",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
-      "excerpt": "Oil extended losses as the US flagged progress in talks with Iran to end their war, and Saudi Arabia moved to restart a key pipeline.",
-      "publishedAt": "2026-09-22T22:02:20.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
+      "summary": "项目 murmur 在 Arc 主网（Chain ID 5042）上真实运行，用 USDC 结算，完全不依赖 LLM，只靠神经元驱动的「果蝇群」自下而上搭建链上文明。目前果蝇已完成超过 23000 项任务，属于链上多智能体涌现类实验。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2331,13 +2292,72 @@
     },
     {
       "sourceId": "bloomberg-markets",
+      "title": "Latest Oil Market News and Analysis for Sept. 23",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/latest-oil-market-news-and-analysis-for-sept-23",
+      "excerpt": "Oil headed for the longest losing streak in a year, as Saudi Arabia moved to restart a key pipeline and the US flagged progress in talks with Iran to end a war that’s rocked the Middle East.",
+      "publishedAt": "2026-09-22T22:02:20.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Asian Stocks Rise After US Tech Rally, Oil Drops: Markets Wrap",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/stock-market-today-dow-s-p-live-updates",
+      "excerpt": "Asian stocks rose for a sixth straight day after chipmakers drove the Nasdaq 100 to its first record high since June, while falling oil prices provided a further lift as diplomatic efforts to end the war with Iran progressed.",
+      "publishedAt": "2026-09-22T22:15:07.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "亚洲股市连续第六个交易日上涨，芯片股推动纳斯达克100指数自6月以来首次创下收盘新高，油价下跌也提供支撑。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "China’s AI Trade Favors Global Winners Over Local Champions",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/china-s-ai-trade-favors-global-winners-over-local-champions",
+      "excerpt": "China’s push for global AI supremacy is increasingly benefiting companies that supply the rest of the world, with investors favoring such stocks as fierce competition hurts their domestically focused peers.",
+      "publishedAt": "2026-09-22T23:59:44.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "中国推动全球人工智能主导地位，受益者越来越多是向世界其他地区供货的企业；投资者偏好这类股票，而国内激烈竞争拖累聚焦本土市场的同行。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Gold Steadies as Iran Talks Temper Concerns Over Fed Rate Path",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/gold-steadies-as-iran-talks-temper-concerns-over-fed-rate-path",
+      "excerpt": "Gold was steady as traders monitored progress in talks between the US and Iran for clues on how energy costs will influence the Federal Reserve’s path for interest rates.",
+      "publishedAt": "2026-09-22T23:56:43.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "金价持稳，交易员密切关注美国与伊朗的谈判进展，以判断能源成本变化将如何影响美联储未来的利率路径。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "India's Dixon Tech Eyes Growth Beyond Smartphones",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-22/india-s-dixon-tech-eyes-growth-beyond-smartphonesq",
+      "excerpt": "Sunil Vachani , the Executive Chairman of Dixon Technologies expects the company's EMS rankings to be in the top 5 in the next decade. In an exclusive conversation with BTV's Menaka Doshi, he adds that the company is eyeing growth beyond smartphones to add global clout. (Source: Bloomberg)",
+      "publishedAt": "2026-09-22T23:00:49.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "Dixon Technologies执行主席苏尼尔·瓦查尼预计，公司电子制造服务排名将在未来十年进入全球前五，并寻求在智能手机以外领域扩张。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
+      "title": "Reform Should Cut Back Britain’s State Pension, Think Tank Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-22/reform-should-cut-back-britain-s-state-pension-think-tank-says",
+      "excerpt": "A think tank linked to Reform UK has suggested that Nigel Farage’s party should reduce the state pension to a means-tested safety net, if it comes to power.",
+      "publishedAt": "2026-09-22T23:01:00.000Z",
+      "category": "finance",
+      "source": "Bloomberg Markets",
+      "summary": "与英国改革党有关联的智库建议，若法拉奇领导的改革党上台执政，应将国家养老金削减为基于经济状况调查的安全网。"
+    },
+    {
+      "sourceId": "bloomberg-markets",
       "title": "Murat Kurum Outlines COP31 Action Plan",
       "url": "https://www.bloomberg.com/news/videos/2026-09-22/murat-kurum-outlines-cop31-action-plan-video",
       "excerpt": "Murat Kurum, President, COP31; Minister of Environment, Urbanization & Climate Change, Republic of Türkiye discusses his action plan for the Antalya summit at the COP31 Business Forum New York Dialogue at Bloomberg Green New York 2026. (Source: Bloomberg)",
       "publishedAt": "2026-09-22T22:08:01.000Z",
       "category": "finance",
       "source": "Bloomberg Markets",
-      "summary": "土耳其环境、城市化和气候变化部长、COP31主席穆拉特·库鲁姆在纽约彭博绿色2026活动上，介绍将在安塔利亚举行的COP31峰会行动计划。"
+      "summary": "土耳其环境、城市化与气候变化部长穆拉特·库鲁姆在纽约COP31商业论坛上，介绍安塔利亚峰会的行动计划。"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2346,8 +2366,7 @@
       "excerpt": "Poland President Karol Nawrocki says it's just a matter of time before a permanent US military base is built in his country. Nawrocki says he hopes \"Fort Trump\" is completed before Trump's term ends in 2029. Nawrocki speaks exclusively to Bloomberg's Francine Lacqua on the sidelines of UN General As",
       "publishedAt": "2026-09-22T22:06:05.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "波兰总统纳夫罗茨基表示，美国在波兰设立永久军事基地只是时间问题，他希望「特朗普堡」能在特朗普2029年任期结束前建成。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2356,8 +2375,7 @@
       "excerpt": "Prediction market wagers involving bets on what high-profile people might say in public present heightened manipulation risk and can only be offered in limited circumstances, Commodity Futures Trading Commission staff warned in new guidance.",
       "publishedAt": "2026-09-22T22:03:35.000Z",
       "category": "finance",
-      "source": "Bloomberg Markets",
-      "summary": "美国商品期货交易委员会发布新指引，警告预测市场中对知名人物公开言论的「提及」类押注存在较高操纵风险，只能在有限情形下提供。"
+      "source": "Bloomberg Markets"
     },
     {
       "sourceId": "bloomberg-markets",
@@ -2446,24 +2464,6 @@
       "url": "https://www.bloomberg.com/news/articles/2026-09-22/meta-s-muse-drags-down-stocks-that-depend-on-consumer-inertia",
       "excerpt": "Shares of major banks, insurers and online travel agencies slid on Tuesday as investors fear that tools like Meta Platforms Inc.’s personal AI agent could disrupt businesses that benefit from so-called consumer inertia, the tendency to keep buying something out of habit even when a better alternativ",
       "publishedAt": "2026-09-22T18:14:55.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "Nasdaq 100 Climbs to Its First Record Since June: Markets Wrap",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-21/stock-market-today-dow-s-p-live-updates",
-      "excerpt": "A renewed rally in chipmakers drove the Nasdaq 100 to its first record since June, with sentiment also bolstered by a drop in oil prices amid hopes for diplomatic efforts to end the war in Iran.",
-      "publishedAt": "2026-09-21T22:18:13.000Z",
-      "category": "finance",
-      "source": "Bloomberg Markets"
-    },
-    {
-      "sourceId": "bloomberg-markets",
-      "title": "AI Enthusiasm Drives Nasdaq 100 to First Record Since June",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-22/us-stock-futures-drift-after-ai-driven-rally-oil-prices-slip",
-      "excerpt": "Propelled by renewed AI-investing euphoria, the Nasdaq 100 Index closed at its first record in more than three months as traders rotated out of stocks that they expect to be disrupted by the technology.",
-      "publishedAt": "2026-09-22T12:29:15.000Z",
       "category": "finance",
       "source": "Bloomberg Markets"
     },
@@ -2655,7 +2655,7 @@
       "publishedAt": "2026-09-22T23:18:27.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "澳洲航空首席执行官瓦妮莎·哈德森表示，尽管燃油价格高企，公司仍将推进新的超长途航线，并称对直飞航班的需求充满信心。"
+      "summary": "澳洲航空首席执行官凡妮莎·哈德森表示，尽管燃油价格高企，公司仍推进新的超长程直飞航班，并确信市场对不经停航线的需求强劲。"
     },
     {
       "sourceId": "ft-companies",
@@ -2665,7 +2665,7 @@
       "publishedAt": "2026-09-22T23:01:06.000Z",
       "category": "finance",
       "source": "Financial Times",
-      "summary": "报道称许多跨国企业正采取「打不过就加入」的策略，欧盟企业开始协助中国企业进入欧洲市场扩张，并分析这一现象的成因。"
+      "summary": "越来越多欧盟企业似乎采取「打不过就加入」的做法，转而帮助中国企业进入并拓展欧洲市场。"
     },
     {
       "sourceId": "ft-companies",
@@ -2882,7 +2882,7 @@
       "publishedAt": "2026-09-22T23:11:33.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "欧洲汽车制造商正陷入危机，多家车企高管希望欧洲重整军备带来的需求，能帮助它们重新发挥工业能力、渡过难关。"
+      "summary": "欧洲汽车制造商正陷入危机，业内高管寄望重整军备带来的需求，能帮助它们重新发挥工业制造能力。"
     },
     {
       "sourceId": "bbc-business",
@@ -2892,7 +2892,7 @@
       "publishedAt": "2026-09-22T23:01:28.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "国际货币基金组织总裁格奥尔基耶娃在接受BBC采访时称，经济冲击使债务水平如阶梯般攀升，发达经济体应在借贷成本上升之际降低债务。"
+      "summary": "IMF总裁格奥尔基耶娃对BBC表示，经济冲击令债务水平如「阶梯」般攀升，发达经济体应在借贷成本上升之际降低债务。"
     },
     {
       "sourceId": "bbc-business",
@@ -2902,7 +2902,7 @@
       "publishedAt": "2026-09-22T23:20:31.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "三名二十多岁的年轻人向BBC新闻讲述，在无法依靠父母经济支持（「爸妈银行」）的情况下，如何应对住房与生活开支等财务压力。"
+      "summary": "三名二十多岁的年轻人向BBC新闻讲述，在没有父母经济支持、即所谓「父母银行」的情况下，如何应对日常生活。"
     },
     {
       "sourceId": "bbc-business",
@@ -2930,7 +2930,7 @@
       "publishedAt": "2026-09-22T23:03:48.000Z",
       "category": "finance",
       "source": "BBC Business",
-      "summary": "为节省电力并提升容量，数据中心正将铜缆替换为基于光技术的设备，报道探讨这种向光传输的转变能否降低能耗。"
+      "summary": "为节省电力并提升容量，数据中心正从铜制线缆转向采用光技术，此举能否降低能耗受到关注。"
     },
     {
       "sourceId": "bbc-business",
@@ -3498,7 +3498,7 @@
       "publishedAt": "2026-09-22T23:36:12.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "美国一名法官阻止驱逐一名遭移民及海关执法局人员枪击的DoorDash送餐司机。该司机在周日中枪后由医院被转往拘留中心。"
+      "summary": "美国一名法官阻止驱逐一名遭移民及海关执法局（ICE）人员枪击的DoorDash送餐司机；该司机周日在枪击后由医院被转往拘留中心。"
     },
     {
       "sourceId": "bbc-world",
@@ -3607,7 +3607,7 @@
       "publishedAt": "2026-09-22T22:33:44.000Z",
       "category": "politics",
       "source": "BBC World",
-      "summary": "来自世界各地的代表团出席在纽约举行的联合国大会，会上出现威胁、交易与激烈演讲。"
+      "summary": "多国代表团出席在纽约举行的联合国大会，会场上出现威胁、交易与激烈演讲，美伊在大会首日举行了会谈。"
     },
     {
       "sourceId": "bbc-world",
@@ -3776,10 +3776,20 @@
       "title": "Australia news live: Wilson says One Nation-Liberal power-sharing talks are ‘figment of Barnaby’s imagination’",
       "url": "https://www.theguardian.com/australia-news/live/2026/sep/23/anthony-albanese-un-assembly-ai-social-media-labor-coalition-abc-four-corners-ntwnfb",
       "excerpt": "Follow the day’s news live Get our breaking news email, free app or daily news podcast Andrew Bragg, the shadow housing minister, said he believes in “big debates” about housing after pushing his new proposal yesterday to allow people to use their superannuation as collateral to get a home loan. The",
-      "publishedAt": "2026-09-22T23:37:23.000Z",
+      "publishedAt": "2026-09-23T00:08:26.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "澳大利亚新闻直播：威尔逊称一国党与自由党的权力分享谈判是「巴纳比想象中的产物」；影子住房部长布拉格此前提出允许民众以养老金作抵押申请房贷。"
+      "summary": "澳大利亚新闻直播：威尔逊称一国党与自由党的权力分享谈判是「巴纳比的臆想」；影子住房部长布拉格此前提出允许民众以养老金作为抵押购房的提案。"
+    },
+    {
+      "sourceId": "guardian-world",
+      "title": "Review urged after blood-spattered shirt ads ran alongside domestic violence news in Australia",
+      "url": "https://www.theguardian.com/media/2026/sep/23/domestic-violence-news-articles-advertising-error-bloodstained-shirt-halloween-costume-ads-ntwnfb",
+      "excerpt": "Gruesome ads embedded in articles about family violence ‘make light’ of violence and could distress victim-survivors, expert warns Follow our Australia news live blog for latest updates WARNING: this story contains an image some readers may find distressing News stories about domestic violence inadv",
+      "publishedAt": "2026-09-23T00:00:09.000Z",
+      "category": "politics",
+      "source": "The Guardian",
+      "summary": "澳大利亚家庭暴力新闻报道页面旁出现带血迹衬衫的万圣节服装广告，专家批评此举「轻描淡写」暴力，可能令受害幸存者不适，呼吁展开审查。"
     },
     {
       "sourceId": "guardian-world",
@@ -3788,8 +3798,7 @@
       "excerpt": "Opposition leader said the idea for Australians to use their superannuation savings as collateral for a loan ‘is not our policy’ Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast Angus Taylor has immediately distanced himself from the ",
       "publishedAt": "2026-09-22T22:11:39.000Z",
       "category": "politics",
-      "source": "The Guardian",
-      "summary": "澳大利亚反对党领袖安格斯·泰勒与影子住房部长布拉格提出的建议保持距离，称允许澳人用养老金储蓄作为贷款抵押「并非我们的政策」。"
+      "source": "The Guardian"
     },
     {
       "sourceId": "guardian-world",
@@ -3811,22 +3820,13 @@
     },
     {
       "sourceId": "guardian-world",
-      "title": "Alex Antic’s rise in SA Liberals has coincided with a collapse in the party’s vote. Is there further to fall?",
-      "url": "https://www.theguardian.com/australia-news/2026/sep/23/right-wing-senator-alex-antic-sweeps-to-victory-as-next-sa-liberals-president-ntwnfb",
-      "excerpt": "Election of rightwing senator – once called a ‘vote-losing machine’ – as state president in South Australia takes party further from the centre Follow our Australia news live blog for latest updates Get our new political email, free app or daily news podcast Rogue Liberal senator Alex Antic says he ",
-      "publishedAt": "2026-09-22T15:00:03.000Z",
-      "category": "politics",
-      "source": "The Guardian"
-    },
-    {
-      "sourceId": "guardian-world",
       "title": "Spain allows US extradition case against pro-Palestine aid donor to proceed",
       "url": "https://www.theguardian.com/us-news/2026/sep/22/spain-extradition-request-james-fergie-chambers",
       "excerpt": "Lawyers for James ‘Fergie’ Chambers, wanted over alleged support for Hamas, say client is being persecuted The Spanish government has decided to allow the Trump administration’s controversial extradition request to extradite wealthy activist James “Fergie” Chambers to continue in the country’s court",
       "publishedAt": "2026-09-22T22:16:55.000Z",
       "category": "politics",
       "source": "The Guardian",
-      "summary": "西班牙政府决定允许特朗普政府针对富有活动人士詹姆斯「弗格西」·钱伯斯的引渡请求继续推进；他因涉嫌支持哈马斯被美方通缉，其律师称当事人遭到迫害。"
+      "summary": "西班牙政府决定允许特朗普政府对富商活动人士詹姆斯·「弗吉」·钱伯斯的引渡请求继续推进；他因涉嫌支持哈马斯被美方通缉，其律师称当事人受到迫害。"
     },
     {
       "sourceId": "guardian-world",
@@ -3914,10 +3914,10 @@
       "title": "U.N. Live Updates: As Trump Threatens Iran, Other Leaders Warn of Deep Divisions",
       "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news",
       "excerpt": "President Trump said he must decide whether to make a deal or “annihilate” Iran, in a gathering where world leaders typically focus on declarations of global harmony.",
-      "publishedAt": "2026-09-22T23:42:35.000Z",
+      "publishedAt": "2026-09-23T00:10:30.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "联合国大会现场：特朗普称他必须决定是与伊朗达成协议还是「消灭」伊朗；多国领导人则警告世界存在深刻分歧。"
+      "summary": "联合国大会期间，美国总统特朗普称他必须决定是与伊朗达成协议还是「消灭」伊朗；多位与会领导人则警告世界分歧正不断加深。"
     },
     {
       "sourceId": "nyt-world",
@@ -4038,13 +4038,23 @@
     },
     {
       "sourceId": "nyt-world",
+      "title": "At U.N., Carney Lays Out a Broad Plan for a Divided World",
+      "url": "https://www.nytimes.com/2026/09/22/world/canada/carney-united-nations-general-assembly.html",
+      "excerpt": "Mark Carney, the Canadian prime minister, said the world is now at a point ‘that comes once or twice a century.’",
+      "publishedAt": "2026-09-22T23:57:34.000Z",
+      "category": "politics",
+      "source": "NYT World",
+      "summary": "加拿大总理卡尼在联合国发表讲话，为分裂的世界提出一项广泛计划，称世界正处于「一两个世纪才出现一两次」的时刻。"
+    },
+    {
+      "sourceId": "nyt-world",
       "title": "As Trump Lobs Threats, Other World Leaders Mostly Avoid Talk of Iran",
       "url": "https://www.nytimes.com/2026/09/22/world/trump-threats-world-leaders-iran-war.html",
       "excerpt": "Some leaders criticized the global impact of the war and called for negotiations to resume, but they stopped short of criticizing President Trump’s remarks.",
       "publishedAt": "2026-09-22T23:28:26.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "在特朗普发出威胁之际，多国领导人大多回避谈论伊朗问题；部分领导人批评战争的全球影响并呼吁恢复谈判，但未直接批评特朗普的言论。"
+      "summary": "在特朗普发出威胁之际，多国领导人在联合国大多回避谈论伊朗；部分领导人批评战争的全球影响并呼吁恢复谈判，但未直接批评特朗普的表态。"
     },
     {
       "sourceId": "nyt-world",
@@ -4054,7 +4064,7 @@
       "publishedAt": "2026-09-22T22:59:30.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "英国新任首相安迪·伯纳姆将首次亮相联合国大会，预计将推动各方支持乌克兰，并在以色列及伊朗战争问题上保持强硬立场。"
+      "summary": "英国新任首相安迪·伯纳姆准备在联合国亮相，预计他将推动对乌克兰的支持，并在以色列及对伊朗战争问题上保持强硬立场。"
     },
     {
       "sourceId": "nyt-world",
@@ -4064,7 +4074,7 @@
       "publishedAt": "2026-09-22T22:26:09.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "日本领导人将在联合国大会发言，强调日本寻求在全球扮演更关键角色的努力。"
+      "summary": "日本领导人将借联合国大会一般性辩论，强调日本正寻求在全球事务中扮演更关键的角色。"
     },
     {
       "sourceId": "nyt-world",
@@ -4074,7 +4084,7 @@
       "publishedAt": "2026-09-22T22:49:15.000Z",
       "category": "politics",
       "source": "NYT World",
-      "summary": "特朗普在联合国大会演讲中威胁「消灭」伊朗，并提出赢者通吃的世界观，被视为对联合国创立理念的否定。"
+      "summary": "特朗普在联合国大会演讲中威胁「消灭」伊朗，并提出赢者通吃的世界观；该讲话被视为对联合国创立理念的否定。"
     },
     {
       "sourceId": "nyt-world",
@@ -4110,8 +4120,7 @@
       "excerpt": "In his farewell address to the General Assembly, the French president criticized Russia, Israel and, in more veiled terms, the United States.",
       "publishedAt": "2026-09-22T21:54:51.000Z",
       "category": "politics",
-      "source": "NYT World",
-      "summary": "法国总统马克龙在联合国大会发表任内最后一次演讲，批评俄罗斯和以色列，并以较为含蓄的措辞批评美国。"
+      "source": "NYT World"
     },
     {
       "sourceId": "nyt-world",
@@ -4173,15 +4182,6 @@
       "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/cuban-officials-walk-out-after-trump-calls-the-nation-a-failed-state-in-his-speech",
       "excerpt": "",
       "publishedAt": "2026-09-22T17:11:26.000Z",
-      "category": "politics",
-      "source": "NYT World"
-    },
-    {
-      "sourceId": "nyt-world",
-      "title": "Amazon says it will provide secure cloud computing to NATO.",
-      "url": "https://www.nytimes.com/live/2026/09/22/world/un-general-assembly-trump-speech-news/amazon-to-provide-secure-cloud-computing-to-nato",
-      "excerpt": "Over time, the development should allow better intelligence sharing and military planning among the alliance.",
-      "publishedAt": "2026-09-22T15:44:19.000Z",
       "category": "politics",
       "source": "NYT World"
     },
@@ -4547,13 +4547,33 @@
     },
     {
       "sourceId": "aljazeera",
+      "title": "Iran war live: Trump confirms ‘very good’ meeting with Iran at UN",
+      "url": "https://www.aljazeera.com/news/liveblog/2026/9/23/iran-war-live-trump-confirms-very-good-meeting-with-iran-at-un?traffic_source=rss",
+      "excerpt": "President Trump says US officials held a 'very good' meeting on Tuesday with the Iranian delegation at UN.",
+      "publishedAt": "2026-09-23T00:00:00.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "特朗普在联合国大会期间确认，美方官员周二与伊朗代表团举行了「非常好」的会谈，而他此前曾威胁要「消灭」伊朗。"
+    },
+    {
+      "sourceId": "aljazeera",
+      "title": "Iran flights to Baghdad, Muscat cancelled ahead of US aviation sanctions",
+      "url": "https://www.aljazeera.com/news/2026/9/22/iran-flights-to-baghdad-muscat-cancelled-ahead-of-us-aviation-sanctions?traffic_source=rss",
+      "excerpt": "Iran's aviation officials negotiate with Oman and Iraq as US's Bessent targets carriers seven months into the conflict.",
+      "publishedAt": "2026-09-22T23:46:06.000Z",
+      "category": "politics",
+      "source": "Al Jazeera",
+      "summary": "在美国实施航空制裁前，伊朗飞往巴格达和马斯喀特的航班取消。伊朗航空官员正与阿曼、伊拉克磋商，美财长贝森特针对相关航空公司，冲突已持续七个月。"
+    },
+    {
+      "sourceId": "aljazeera",
       "title": "Kamala Harris campaigns with Abdul El-Sayed to unify Democratic voters",
       "url": "https://www.aljazeera.com/news/2026/9/22/kamala-harris-campaigns-with-abdul-el-sayed-to-unify-democratic-voters?traffic_source=rss",
       "excerpt": "The former vice president joins Abdul El-Sayed in Detroit to bolster Democratic unity in swing-state Michigan.",
       "publishedAt": "2026-09-22T23:20:17.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "美国前副总统卡玛拉·哈里斯在底特律与阿卜杜勒·埃尔-赛义德一同造势，旨在摇摆州密歇根凝聚民主党选民、促进党内团结。"
+      "summary": "美国前副总统哈里斯在底特律与阿卜杜勒·埃尔-赛义德共同出席竞选活动，以在摇摆州密歇根凝聚民主党选民的团结。"
     },
     {
       "sourceId": "aljazeera",
@@ -4563,7 +4583,7 @@
       "publishedAt": "2026-09-22T22:48:56.000Z",
       "category": "politics",
       "source": "Al Jazeera",
-      "summary": "联合国大会首日，美国与伊朗举行会谈，尽管特朗普在开幕演讲中威胁要「消灭」伊朗。"
+      "summary": "联合国大会首日，尽管特朗普在开幕演讲中威胁要「消灭」伊朗，美国与伊朗仍举行了会谈。"
     },
     {
       "sourceId": "aljazeera",
@@ -4572,8 +4592,7 @@
       "excerpt": "Logan and Jake Paul face social media backlash after Pentagon visit with Pete Hegseth.",
       "publishedAt": "2026-09-22T22:10:25.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "洛根·保罗和杰克·保罗到访五角大楼并与国防部长皮特·赫格塞思会面，随后在社交媒体上招致批评。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4582,8 +4601,7 @@
       "excerpt": "US Senator John Curtis's letter marks a rare effort by a member of the president's own party to hold him accountable.",
       "publishedAt": "2026-09-22T22:07:50.000Z",
       "category": "politics",
-      "source": "Al Jazeera",
-      "summary": "美国共和党参议员约翰·柯蒂斯致信要求调查小唐纳德·特朗普的商业往来，这是总统所属政党成员罕见的问责举动。"
+      "source": "Al Jazeera"
     },
     {
       "sourceId": "aljazeera",
@@ -4753,24 +4771,6 @@
       "url": "https://www.aljazeera.com/news/2026/9/22/trump-says-us-officials-met-with-iranian-delegation-for-three-hours-2?traffic_source=rss",
       "excerpt": "US President hints at possible deal with Iran, but warns of dire consequences if no agreement is reached.",
       "publishedAt": "2026-09-22T18:14:12.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Indian MMA fighter refuses handshake after Asian Games ‘defeat’",
-      "url": "https://www.aljazeera.com/video/newsfeed/2026/9/22/indian-mma-fighter-refuses-handshake-after-asian-games?traffic_source=rss",
-      "excerpt": "India’s first MMA medal at the Asian Games was overshadowed by controversy over the result.",
-      "publishedAt": "2026-09-22T18:01:49.000Z",
-      "category": "politics",
-      "source": "Al Jazeera"
-    },
-    {
-      "sourceId": "aljazeera",
-      "title": "Lula warns against foreign interference in Brazil election at UN",
-      "url": "https://www.aljazeera.com/news/2026/9/22/lula-warns-against-foreign-interference-defends-brazils-sovereignty-at-un?traffic_source=rss",
-      "excerpt": "Lula’s remarks come as Trump asserts US power in Latin America in his own UN address.",
-      "publishedAt": "2026-09-22T17:51:07.000Z",
       "category": "politics",
       "source": "Al Jazeera"
     },
